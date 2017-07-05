@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Betenbaugh Lab</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+
+<!-- TemplateEndEditable -->
+    <meta name="robots" content="index,follow,all">
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <link rel="stylesheet" href="../includes/nav.css" type="text/css" />
+    <link rel="stylesheet" href="../includes/common.css" type="text/css" />
+</head>
+
+<body>
+<table bgcolor="#FFFFFF" width="757" border="0" align="center" cellpadding="0" cellspacing="0" style="border: 2px solid #263D6F;">
+<tr>
+	<td colspan="2"><img src="../images/masthead.gif" height="107" width="757"></td>
+</tr>
+<tr valign="top">
+	<td bgcolor="#F6F6F6" width="185" height="100%" style="background-image: url(../images/menu2.jpg); padding: 0px; background-repeat: repeat-y;">
+	<table valign="top" width="185" height="100%" border="0" cellpadding="0" cellspacing="0">
+	<tr valign="top">
+	<td width="185" valign="top" style="background-image: url(../images/menu.jpg); padding: 0px; background-repeat: no-repeat;">
+	<table valign="top" width="185" height="100%" border="0" cellpadding="0" cellspacing="0">
+	<tr valign="top">
+	<td width="185" style="padding: 10px;" height="100%">
+	
+
+<div id="menu">
+<ul>
+  <li><div class="navdiv1" onmouseover="this.className='navdiv2';" onmouseout="this.className='navdiv1';">
+	<a href="../index.html" class="nav"><b>Betenbaugh Lab Home</b></a></div>
+
+    <hr height="1" color="#dddddd" noshade="noshade" size="1">
+
+    <ul>
+      <li><div class="navdiv1" onmouseover="this.className='navdiv2';" onmouseout="this.className='navdiv1';"><a href="../betenbaugh.html" class="nav">Professor Betenbaugh</a></li>
+      <li><div class="navdiv1" onmouseover="this.className='navdiv2';" onmouseout="this.className='navdiv1';"><a href="../research/" class="nav">Research Areas</a></div>
+        <ul>
+		  <!-- Begin Glyco Engineering Popout -->
+          <li><div class="navdiv2"><a href="../research/glyco/" class="nav">Glyco Engineering</a></div>
+            <ul>
+              <li><div class="navdiv2"><a href="../research/glyco/modeling.html" class="nav">Mathematical Modeling of Glycosylation Pathways</a></div></li>
+              <li><div class="navdiv2"><a href="../research/glyco/neurobiology.html" class="nav">Glycosylation in Neurobiology</a></div></li>
+              <li><div class="navdiv2"><a href="../research/glyco/site-occupancy.html" class="nav">Site Occupancy</a></div></li>
+              <li><div class="navdiv2"><a href="../research/glyco/glycosylation-systems.html" class="nav">Humanizing Non-mammalian Glycosylation Systems</a></div></li>
+            </ul>
+          </li>
+
+		  <!-- Begin Cell Engineering Popout -->
+          <li><div class="navdiv2"><a href="../research/cell/" class="nav">Cell Engineering</a></div>
+            <ul>
+              <li><div class="navdiv2"><a href="../research/cell/apoptosis.html" class="nav">Anti-Apoptosis</a></li>
+              <li><div class="navdiv2"><a href="../research/cell/stem-cells.html" class="nav">Stem Cell Engineering</a></li>
+              <li><div class="navdiv2"><a href="../research/cell/vaccine.html" class="nav">Vaccine Production</a></li>
+            </ul>
+          </li>
+
+		  <!-- Begin Biofuels Engineering Popout -->
+          <li><div class="navdiv2"><a href="../research/biofuels/" class="nav">Biofuels Engineering</a></div>
+          </li>
+        
+        </ul>
+      </li>
+
+      <li><div class="navdiv1" onmouseover="this.className='navdiv2';" onmouseout="this.className='navdiv1';"><a href="../publications/" class="nav">Publications</a></div>
+
+      <li><div class="navdiv1" onmouseover="this.className='navdiv2';" onmouseout="this.className='navdiv1';"><a href="../members/" class="nav">Group Members</a></div>
+
+      <li><div class="navdiv1" onmouseover="this.className='navdiv2';" onmouseout="this.className='navdiv1';"><a href="../tools/" class="nav">Tools &amp; Links</a></div>
+
+    </ul>
+  </li>
+</ul>
+
+</div>
+
+
+
+<!--
+<hr height="1" color="#dddddd" noshade="noshade" size="1">
+
+<div class="navdiv1" onmouseover="this.className='navdiv2';" onmouseout="this.className='navdiv1';">
+	<a href="../members/login.html" class="nav">Member Login</a></div> 
+
+-->		</td>
+		</tr>
+	<tr valign="top">
+	  <td style="padding: 10px;" height="100%">&nbsp;</td>
+	  </tr>
+		</table>
+		</td>
+		</tr>
+		</table>
+	</td>
+
+	<td width="572" bgcolor="#FFFFFF"><!-- TemplateBeginEditable name="main-content" -->
+    <div style="padding-left: 13px; padding-right: 13px; padding-bottom: 13px;">
+      <h1>Header 1</h1>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <h2>Header 2</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <h3>Header 3</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+    </div>
+	<!-- TemplateEndEditable --></td>
+</tr>
+
+</table>
+<p align="center"><span class="style1">&copy; 2009 Johns Hopkins University</span></p>
+
+
+<script type="text/javascript">
+_uacct = "UA-2026723-1";
+urchinTracker();
+</script>
+</body>
+</html>

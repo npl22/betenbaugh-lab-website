@@ -1,0 +1,135 @@
+/* CSS Document */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	background-image:url(../images/bg.jpg);
+	background-repeat:repeat-x;
+	background-color: #A6D0FF;
+}
+
+td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+}
+
+ul {
+	margin-left: 25px;
+	padding-left: 25px;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+a:link {
+	color: #003399;
+}
+a:visited {
+	color: #003399;
+}
+a:hover {
+	color: #003399;
+}
+a:active {
+	color: #990000;
+}
+.style1, .style1:link, .style1:visited, .style1:hover, .style1:active {font-weight: bold; color: #222222;}
+h1 {
+	font-size: 25px;
+	font-weight: bold;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #DADADA;
+	margin-top: 13px;
+	color: #0066FF;
+}
+h2 {
+	font-size: 16px;
+	font-weight: bold;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #DADADA;
+	color: #0066FF;
+}
+h3 {
+	font-size: 16px;
+	font-weight: bold;	
+	color: #0066FF;
+	margin-top: 5px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+ul {
+	margin-left:0px;
+}
+
+.navdiv1
+{
+padding: 5px; 
+background-color: transparent;
+border: none; 
+width: 150px;
+}
+.navdiv2
+{
+border: 1px solid silver; 
+background-color: #EEEEEE; 
+padding: 4px;
+width: 150px;
+}
+.nav:link, .nav:visited {
+text-decoration: none; 
+color: #333333;
+}
+.nav:hover {
+text-decoration: underline; 
+color: #333333;
+}
+.ctd {padding: 0px;}
+.customhosting { text-align: center; width: 65px; border: 1px inset silver; background-color: #FFFFEC; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;}
+.hbutton { width: 65px; border: 1px outset silver; background-color: #FFFFCC; font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: bold;}
+.hnbutton,.hnbutton:link { padding: 4px; border: 1px outset silver; background-color: #FFFFCC; font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: black; text-decoration: none;}
+.flat_cell{	border: 1px solid #CCCCCC; }
+.leftCol 
+	{border-right: 1px solid silver; border-bottom: 1px solid silver;}
+.rtCol 
+	{border-right: 1px solid silver; border-bottom: 1px solid silver;}
+.err
+{border: 1px solid silver; background-color: #FFFFCC; padding: 8x; margin-bottom: 8px; font-weight: bold; color: #666600;}
+
+.form-item {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+tr.odd .form-item, tr.even .form-item {
+  margin-top: 0;
+  margin-bottom: 0;
+  white-space: nowrap;
+}
+.form-item input.error, .form-item textarea.error {
+  border: 2px solid red;
+}
+.form-item .description {
+  font-size: 0.85em;
+}
+.form-item label {
+  display: block;
+  font-weight: bold;
+}
+.form-item label.option {
+  display: inline;
+  font-weight: normal;
+}
+
+
+
+input,
+textarea{
+display:block;
+
+font:1em Verdana,sans-serif;
+margin-bottom:1em;
+padding:0.1em;
+
+}
